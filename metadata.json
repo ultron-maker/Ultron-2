@@ -1,0 +1,11 @@
+{
+  "name": "Ultron - Cybernetic AI Voice Assistant",
+  "description": "A responsive Android and Web AI Assistant with continuous 'Hey Ultron' wake word detection, deep metallic voice synthesis, app launcher logic, glowing crimson visualizer, and authoritative multi-disciplinary knowledge.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
